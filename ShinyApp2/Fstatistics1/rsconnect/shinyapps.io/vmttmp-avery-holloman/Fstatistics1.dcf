@@ -1,0 +1,12 @@
+name: Fstatistics1
+title: Fstatistics1
+username: vmttmp-avery-holloman
+account: vmttmp-avery-holloman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12515185
+bundleId: 9022637
+url: https://vmttmp-avery-holloman.shinyapps.io/Fstatistics1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
